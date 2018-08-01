@@ -3,7 +3,7 @@ A command line utility that updates the version of an Adobe Launch extension pac
 
 ### Sample usage:
 ```
-npm install -g reactor-version-extension-package
+npm install -g version-reactor-extension-package
 
 version-reactor-extension-package [major, minor, patch] inputFile optionalOutputFile
 ```

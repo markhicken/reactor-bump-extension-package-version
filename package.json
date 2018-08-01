@@ -1,5 +1,5 @@
 {
-  "name": "reactor-version-extension-package",
+  "name": "version-reactor-extension-package",
   "version": "1.0.0",
   "description": "A command line utility that updates the version of a zipped up Adobe Launch extension package.",
   "author": "Mark Hicken",

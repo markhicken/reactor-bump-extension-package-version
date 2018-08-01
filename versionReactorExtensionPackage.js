@@ -62,6 +62,8 @@ if (validateInput()) {
           // write the zip file
           zip.generateNodeStream({
             type:'nodebuffer',
+            compression:'DEFLATE',
+            compressionOptions: { level:9 },
             streamFiles:true
           }).pipe(
             fs.createWriteStream(newExtensionPackageFilePath)

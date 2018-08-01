@@ -30,11 +30,6 @@ function validateInput() {
     showUsage();
     return false;
   }
-  if (!newExtensionPackageFilePath) {
-    console.log('No output file specified');
-    showUsage();
-    return false;
-  }
 
   return true;
 }

@@ -1,5 +1,5 @@
 # version-reactor-extension-package
-A command line utility that updates the version of a zipped up Adobe Launch extension package.
+A command line utility that updates the version of an Adobe Launch extension package (zip file).
 
 ### Sample usage:
 ```

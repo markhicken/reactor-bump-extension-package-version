@@ -1,4 +1,4 @@
-# reactor-version-extension-package
+# version-reactor-extension-package
 A command line utility that updates the version of a zipped up Adobe Launch extension package.
 
 ### Sample usage:

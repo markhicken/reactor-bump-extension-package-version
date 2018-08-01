@@ -12,7 +12,7 @@
     }
   ],
   "bin": {
-    "versionreactorpackage": "./versionReactorPackage.js"
+    "version-reactor-extension-package": "./versionReactorExtensionPackage.js"
   },
   "dependencies": {
     "jszip": "^3.1.5",

@@ -11,7 +11,7 @@ const newExtensionPackageFilePath = process.argv[4] || extensionPackageFilePath;
 function showUsage() {
   console.log('');
   console.log('usage: ')
-  console.log('versionreactorpackage [major, minor, patch] inputFile.zip outputFile.zip');
+  console.log('version-reactor-extension-package [major, minor, patch] <inputFile> <optionalOutputFile>');
 }
 
 function validateInput() {

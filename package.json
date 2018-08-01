@@ -1,7 +1,7 @@
 {
   "name": "version-reactor-extension-package",
   "version": "1.0.0",
-  "description": "A command line utility that updates the version of a zipped up Adobe Launch extension package.",
+  "description": "A command line utility that updates the version of an Adobe Launch extension package (zip file).",
   "author": "Mark Hicken",
   "license": "ISC",
   "contributors": [

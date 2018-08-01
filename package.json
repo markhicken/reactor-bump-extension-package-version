@@ -1,0 +1,21 @@
+{
+  "name": "reactor-version-extension-package",
+  "version": "1.0.0",
+  "description": "A command line utility that updates the version of a zipped up Adobe Launch extension package.",
+  "author": "Mark Hicken",
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Mark Hicken",
+      "email": "mark.hicken@gmail.com",
+      "url": "https://github.com/markhicken"
+    }
+  ],
+  "bin": {
+    "versionreactorpackage": "./versionReactorPackage.js"
+  },
+  "dependencies": {
+    "jszip": "^3.1.5",
+    "semver": "^5.5.0"
+  }
+}
